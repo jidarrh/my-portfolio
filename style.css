@@ -229,6 +229,7 @@ footer {
 
     .article-img {
         max-width: 350px;
+        height: 350px;
         margin-left: 2rem;
     }
 }

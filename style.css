@@ -181,6 +181,7 @@ footer {
 
 .social-item {
     margin: 0.2rem;
+    list-style: none;
 }
 
 .social-link {

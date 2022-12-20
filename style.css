@@ -1,4 +1,4 @@
-:root {
+g:root {
     --primary: #1c1f4c;
     --spacing: 4rem;
 }
@@ -78,7 +78,7 @@ cite{
 
 .button {
     display: inline-block;
-    margin-right: 1rem;
+    margin: 1rem;
     padding: 1rem;
     border: 2px solid var(--button-color);
     font-weight: bold;
